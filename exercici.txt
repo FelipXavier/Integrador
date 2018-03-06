@@ -1,4 +1,5 @@
 Hola esteim fent un exercici de Entorns.
 
 Creació de repositori - Git Init
-Realitzam un commit i guardam el canvi.
+Realitzam un commit i guardam el 
+canvi.
