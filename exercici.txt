@@ -1,5 +1,7 @@
-Hola esteim fent un exercici de Entorns.
-
+﻿Hola esteim fent un exercici de Entorns.
+Hola jo som el programador --> Pedro
 Creació de repositori - Git Init
 Realitzam un commit i guardam el 
 canvi.
+Realitzam un commit i guardam el canvi.
+Tambe estic escribint per aqui --> Pedro
